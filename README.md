@@ -28,7 +28,6 @@ Usage
 ## Run the script with:
 
 ```bash
-Copy code
 python vehicle.py
 ```
 - The video window will display the vehicle detections, bounding boxes, and the total count.
